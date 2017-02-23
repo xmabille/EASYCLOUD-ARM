@@ -6,8 +6,8 @@
       "value": {
         "vmSize": "Standard_DS1_v2",
         "numberOfExtraServers": 2,
-        "primaryVmName": "sra-01",
-        "domainName" : "sbs.local"
+        "primaryVmName": "vmsrv-01",
+        "domainName" : "easycloud.local"
       }
     },
     "virtualNetworkSettings": {

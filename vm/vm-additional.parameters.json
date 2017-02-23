@@ -4,7 +4,7 @@
   "parameters": {     
       "vm": {
         "value": {
-          "name" : "sra-02",
+          "name" : "vmsrv-02",
           "vmSize" : "Standard_A1",
           "virtualNetworkName": "client-vnet-default",
           "virtualNetworkSubnetName" : "sn-management",

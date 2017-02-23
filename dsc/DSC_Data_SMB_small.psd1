@@ -8,11 +8,11 @@
 			PSDscAllowDomainUser = $true
 		},
 		@{ 
-			NodeName = "SRA-01"
+			NodeName = "vmsrv-01"
 			Role = "DC-Primary","RDS-All"
 		}
 		@{ 
-			NodeName = "SRA-02"
+			NodeName = "vmsrv-02"
 			Role = ""
 		}
 	)
